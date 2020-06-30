@@ -1,4 +1,5 @@
 # Semantic-HTML-Project
+
 <!DOCTYPE html>
 <html>
    <head>
@@ -43,7 +44,7 @@
     <article>
       <h2>The Scenery in NYC</h2>
       <p>While the view in the city is beautiful, the sounds are not as lovely. Below you'll see an example of the view and the sounds you'll deal with in NYC on a daily basis.</p>
-      </article>
+    </article>
 
     <video src="https://codecademy-content.s3.amazonaws.com/courses/Semantic+HTML/nyc-skyline-timelapse.mp4" controls>Video Not Supported</video>
 
